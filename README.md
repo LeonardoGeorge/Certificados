@@ -5,12 +5,18 @@ Este repositório reúne os certificados que conquistei em minha trajetória de 
 ## 🗂️ Lista de Certificados
 
 - 📄 **Banco de Dados**
+- 📄 **PDO_SQL**
 - 📄 **Git & GitHub**
 - 📄 **HTML5 & CSS3**
 - 📄 **JavaScript**
+- 📄 **TypeScript**
 - 📄 **Orientação a Objetos**
 - 📄 **PHP**
-- 📄 **TypeScript**
+- 📄 **Laravel**
+- 📄 **API-Laravel**
+- 📄 **AWS | Google Cloud | Azure**
+- 📄 **Autenticação com JWT**
+
 
 > Os arquivos estão disponíveis na pasta [`CERTIFICADOS`](./CERTIFICADOS) deste repositório.
 
